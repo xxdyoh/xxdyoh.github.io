@@ -800,7 +800,7 @@ img {
 }
 
 .testimonial__data {
-  justify-content: space-between;
+  justify-content: center;
   margin-bottom: var(--mb-1);
 }
 
@@ -928,7 +928,7 @@ img {
 .footer__copy {
   font-size: var(--smaller-font-size);
   text-align: center;
-  color: var(--text-color-light);
+  color: var(--container-color);
   margin-top: var(--mb-3);
 }
 
